@@ -1,0 +1,79 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "Proficient in modern technologies like HTML, CSS, JavaScript, React ensuring seamless user experiences across devices."
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "Node.js,Express,and databases like MongoDB and MySQL to create scalable and efficient systems."
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "UI & UX Design",
+      "description": "Skilled in using design tools like Figma, Adobe XD, Photoshop and Sketch to craft seamless user experiences."
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "UI & UX Research",
+      "description": "Skilled in UI/UX research, with expertise in user-centered design methodologies to gather improve user experiences"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image.png",
+      "title": "Watch App Ui Design",
+      "description": "Design and development of a user-friendly watch app interface focused on enhancing user interaction and accessibility.",
+      "link": ""
+      
+    },
+    {
+      "id": "2",
+      "src": "./img/placeholder-image-1.png",
+      "title": "Redesigned Whatsapp",
+      "description": "This project focuses on enhancing WhatsApp's user experience by introducing new key updates and functions.",
+      "href": ""
+    },
+    {
+      "id": "3",
+      "src": "./img/placeholder-image-2.png",
+      "title": "Nike Shoe Ui Design",
+      "description": "Designed a modern and engaging user interface for the Nike Shoes website, focusing on enhancing the online shopping experience.",
+      "link": ""
+      
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "Rasith’s ability to create user-friendly and visually engaging interfaces greatly enhanced our mobile app experience.",
+      "author_name": "HS Lakshan ",
+      "author_designation": "Galle,Sri Lanka"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "Rasith's designs were not only beautiful but also highly functional, making navigation smooth and intuitive.",
+      "author_name": "R Fernando",
+      "author_designation": "Colombo 03,Sri Lanka"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "Working with Rasith was a great experience—he delivered exactly what we needed while keeping communication clear and timely.",
+      "author_name": "Dilshan De silva",
+      "author_designation": "Negombo,Sri Lanka"
+    }
+  ]
+}
